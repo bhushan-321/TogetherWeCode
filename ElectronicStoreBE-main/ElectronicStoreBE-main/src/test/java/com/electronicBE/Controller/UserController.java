@@ -4,7 +4,6 @@ import com.electronicBE.dtos.UserDto;
 import com.electronicBE.entities.User;
 import com.electronicBE.services.UserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import javafx.application.Application;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
